@@ -4,7 +4,7 @@
 
 1. Récupération de la clé vantage sur le site https://www.alphavantage.co/
 
-2. Création d'un dossier dans databricks avec le premier fichier qui va permettre de faire la connexion à alpha vantage par python
+2. Création d'un dossier dans databricks avec le premier fichier qui va permettre de faire la connexion à alpha vantage (API) par python 
 
 3. Récupérer les données / faire un graph
 
